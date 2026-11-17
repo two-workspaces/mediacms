@@ -28,7 +28,7 @@ This template runs MediaCMS as three Railway services: the main all-in-one conta
 
 ### Deployment Dependencies
 
-- [MediaCMS documentation](https://docs.mediacms.io/)
+- [MediaCMS documentation](https://github.com/mediacms-io/mediacms/tree/main/docs)
 - [Template source on GitHub](https://github.com/two-workspaces/mediacms)
 
 ### Implementation Details
